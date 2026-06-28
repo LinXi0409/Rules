@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN,clash.razord.top
+  - DOMAIN,Dytts.tapfogdy.cyou
+  - DOMAIN,local.adguard.org
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,easyscholar.cc
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,scopus.com
+  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,scival.com
+  - DOMAIN-SUFFIX,elseviercdn.cn
+  - DOMAIN-SUFFIX,editorialmanager.com
+  - DOMAIN-SUFFIX,wolterskluwer.io
+  - DOMAIN-SUFFIX,uptodate.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,ipify.org
+  - DST-PORT,22
